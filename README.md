@@ -9,4 +9,5 @@ A template repository to publish games
 # Space Rocks
 A template repository to publish games
 
-1. [Player Scene Sep 09](./Space_Rocks_09_09)
+1. [Player Scene Sep 09](./Space_Rocks_09_09) 
+2. [Player Scene Sep 10](./Space_Rocks_09_10) (Set Player Scene as Main Scene)
