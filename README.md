@@ -12,3 +12,4 @@ A template repository to publish games
 1. [Player Scene Sep 09](./Space_Rocks_09_09) 
 2. [Player Scene Sep 10](./Space_Rocks_09_10) (Set Player Scene as Main Scene)
 3. [Main Scene Sep 11](./Space_Rocks_09_11) 
+4. [Main Scene Sep 13](./Space_Rocks_09_13) (Commented out explode function)
