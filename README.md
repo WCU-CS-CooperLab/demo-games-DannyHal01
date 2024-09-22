@@ -14,3 +14,4 @@ A template repository to publish games
 3. [Main Scene Sep 11](./Space_Rocks_09_11) 
 4. [Main Scene Sep 13](./Space_Rocks_09_13) (Commented out explode function)
 5. [Main Scene Sep 16](./Space_Rocks_09_16)
+6. [Part 1](./Space_Rocks_Part_1)
