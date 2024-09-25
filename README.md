@@ -14,6 +14,7 @@ The second 2D game
 4. [Main Scene Sep 13](./Space_Rocks_09_13) (Commented out explode function)
 5. [Main Scene Sep 16](./Space_Rocks_09_16)
 6. [Part 1](./Space_Rocks_Part_1)
+7. [Part 2](./Space_Rocks_Part_2) (In progress)
 
 # Mini Golf
 The first 3D game
