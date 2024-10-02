@@ -20,3 +20,7 @@ The second 2D game
 The first 3D game
 1. [Main Scene Sep 23](./MiniGolfSep23)
 2. [Main Scene Sep 29](./MiniGolfSep29)
+
+# Jungle Jump
+2D platformer
+1. [Player Scene Sep 30](./JungleJumpSep30)
