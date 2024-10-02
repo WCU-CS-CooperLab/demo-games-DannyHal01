@@ -24,3 +24,4 @@ The first 3D game
 # Jungle Jump
 2D platformer
 1. [Player Scene Sep 30](./JungleJumpSep30)
+2. [Main Scene Oct 2](./JungleJumpOctober2)
