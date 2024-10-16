@@ -27,3 +27,7 @@ The first 3D game
 2. [Main Scene Oct 2](./JungleJumpOctober2)
 3. [Level Scene Oct 4](./JungleJumpOctober4)
 4. [Level Scene Oct 7](./JungleJumpOctober7)
+
+# Infinite Flyer
+Second 3D Game
+1. [Test Scene Oct 16](./InfiniteFlyerOctober16)
