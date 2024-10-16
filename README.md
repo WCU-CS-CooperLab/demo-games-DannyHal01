@@ -5,6 +5,7 @@ The first 2D game
 2. [Main Scene Sep 04](./main_scene_09_04)
 3. [Game Scene Sep 06](./player_scene_09_06)
 4. [Game Scene Sep 08](./player_scene_09_08)
+5. [Project 2 Part 1](./Project2_Part1)
 
 # Space Rocks
 The second 2D game
@@ -13,8 +14,8 @@ The second 2D game
 3. [Main Scene Sep 11](./Space_Rocks_09_11) 
 4. [Main Scene Sep 13](./Space_Rocks_09_13) (Commented out explode function)
 5. [Main Scene Sep 16](./Space_Rocks_09_16)
-6. [Part 1](./Space_Rocks_Part_1)
-7. [Part 2](./Space_Rocks_Part_2) (In progress)
+6. [Project 1 Part 1](./Space_Rocks_Part_1)
+7. [Project 1 Part 2](./Space_Rocks_Part_2) (In progress)
 
 # Mini Golf
 The first 3D game
