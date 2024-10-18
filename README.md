@@ -32,3 +32,4 @@ The first 3D game
 # Infinite Flyer
 Second 3D Game
 1. [Test Scene Oct 16](./InfiniteFlyerOctober16)
+2. [Main Scene Oct 18](./InfiniteFlyerOctober18)
