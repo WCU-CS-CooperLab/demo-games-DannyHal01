@@ -6,6 +6,7 @@ The first 2D game
 3. [Game Scene Sep 06](./player_scene_09_06)
 4. [Game Scene Sep 08](./player_scene_09_08)
 5. [Project 2 Part 1](./Project2_Part1)
+6. [Project 2 Part 2](./Project2_Part2) (In progress)
 
 # Space Rocks
 The second 2D game
