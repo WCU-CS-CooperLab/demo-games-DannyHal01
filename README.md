@@ -35,3 +35,4 @@ Second 3D Game
 1. [Test Scene Oct 16](./InfiniteFlyerOctober16)
 2. [Main Scene Oct 18](./InfiniteFlyerOctober18)
 3. [Project 3 Part 1](./Project_3_Part_1)
+4. [Project 3 Part 1 (Updated)](./Fixed_Project_3_Part_1)
