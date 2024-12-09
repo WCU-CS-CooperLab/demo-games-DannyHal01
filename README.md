@@ -40,4 +40,4 @@ Second 3D Game
 
 # Multiplayer
 1. [Project 4](./Project4Final.zip)`Windows Version
-2. [Project 4]() Mac Version
+2. [Project 4](./Project4CorrectMac.zip) Mac Version
